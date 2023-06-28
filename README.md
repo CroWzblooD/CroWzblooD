@@ -1,3 +1,4 @@
+<img align="left" alt="crowz" width=2100 height=250 src="https://data.whicdn.com/images/304616830/original.gif">
 
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate software developer from India</h3>
