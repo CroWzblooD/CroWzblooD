@@ -1,12 +1,12 @@
 
 <h1 align="center" >
-  Hi, I'm <a href="https://www.linkedin.com/in/ashish-k-choudhary-459002222/" target="_blank"> Still Learnning 👋 </a>
+  Hi, I'm <a href="https://www.linkedin.com/in/ashish-k-choudhary-459002222/" target="_blank"> Ashish 👋 </a>
   
 </h1>
 
 
 
-<h2 align="center"> Being happy comes from knowing you did your best. That's what real success is all about.Always try your hardest, even when things are difficult.✨ </h2>
+<h2 align="center"> SyStem and Distributed Engineer.✨ </h2>
 <!-- Interactive GIF -->
 <p align="center">
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
@@ -66,7 +66,6 @@ help create new and exciting things in the tech world. I'm always looking for ne
 
 <div align="center">
 <p>
-/> -->
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshishKChoudhary&theme=2077" alt="DATCH" />
 
 </p>
@@ -85,6 +84,3 @@ help create new and exciting things in the tech world. I'm always looking for ne
 </p>
   </div> -->
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AshishKChoudhary&limit=5&theme=radical&combine_all_yearly_contributions=true)
