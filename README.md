@@ -9,7 +9,7 @@
 <h2 align="center"> SyStem and Distributed Engineer.✨ </h2>
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
+  <img width="50%" align="right"  src="[https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif](https://static.moewalls.com/videos/preview/2022/dawn-train-preview.mp4)" alt="lastCoder">
 </p>
 
 Hi! I'm Ashish K Choudhary, a computer science undergraduate with a background in Devops and System Adminstration who loves working with data, 
@@ -77,10 +77,6 @@ help create new and exciting things in the tech world. I'm always looking for ne
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKChoudhary&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="AshishKChoudhary"/></td>
   </tr>
 </table>
-<!-- <div align="center"> -->
-<p>
 
 
-</p>
-  </div> -->
 
