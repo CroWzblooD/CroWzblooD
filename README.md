@@ -9,7 +9,7 @@
 <h2 align="center"> SyStem and Distributed Engineer.✨ </h2>
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="50%" align="right"  src="[https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif](https://static.moewalls.com/videos/preview/2022/dawn-train-preview.mp4)" alt="lastCoder">
+  <img width="50%" align="right"  src="/github.gif" alt="lastCoder">
 </p>
 
 Hi! I'm Ashish K Choudhary, a computer science undergraduate with a background in Devops and System Adminstration who loves working with data, 
