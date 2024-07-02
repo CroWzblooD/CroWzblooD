@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h3 align="center">
-  Welcome to Ashish's profile!
+  Welcome to Ashish K. Choudhary profile!
   <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
 </h3>
 
@@ -9,7 +9,7 @@
 <!--- https://readme-typing-svg.herokuapp.com --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+sans&weight=500&size=24&duration=2500&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;DevOps+Cloud+Engineer+;Machine+Learning+Engineer)](https://git.io/typing-svg)
  
-![](https://komarev.com/ghpvc/?username=Flowers2Algernon&color=007bff&label=Profile+Views&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=CroWzblooD&color=007bff&label=Profile+Views&style=for-the-badge)
  
 </div>
   
@@ -102,14 +102,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://github.com/CroWzblooD/github-status">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CroWzblooD/github-status/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-stats" src="https://github.com/CroWzblooD/github-status/blob/master/generated/overview.svg">
+  <img alt="CroWzblooD's github-stats" src="https://github.com/CroWzblooD/github-status/blob/master/generated/overview.svg">
 </picture>
 </a>
 
 <a href="https://github.com/CroWzblooD/github-status">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CroWzblooD/github-status/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-stats" src="https://github.com/CroWzblooD/github-status/blob/master/generated/languages.svg">
+  <img alt="CroWzblooD's github-stats" src="https://github.com/CroWzblooD/github-status/blob/master/generated/languages.svg">
 </picture>
 </a>
 
