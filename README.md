@@ -17,9 +17,7 @@
   <a href="https://www.linkedin.com/in/ashizh-choudhary/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/u/Ashish_KChoudhary/">
-    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
+
   <a href="https://CroWzblooD.github.io/">
     <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=Blog&logoColor=white" alt="Blog Badge"/>
   </a>
