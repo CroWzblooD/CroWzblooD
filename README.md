@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 <!-- <img align="right" width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/9e5cf3aa-db5f-4a89-956d-1e2269393437" /> -->
-<img align="right" width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/d2d9965f-6174-4516-a3a0-161467240ac0" />
+<img align="right" width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/c065c121-432c-4a71-b319-1fde92fd242c" />
+
+
 
 I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
 
