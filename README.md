@@ -6,7 +6,7 @@
 
 
 
-I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
+I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
 
 - 🔭 I'm currently working on **MSME Udyam Registration portal** serving **6+ crore users**
 - 🌱 I'm learning **advanced system design** and **cloud architecture**  
@@ -24,15 +24,6 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 <div align="center">
   <img src="https://github.com/CroWzblooD/CroWzblooD/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
-
-
-## More About Me
-
-I'm deeply passionate about creating impactful technology solutions that solve real-world problems. My journey in software engineering has been driven by curiosity and the desire to build systems that can serve millions of users effectively. At NIC, I've had the incredible opportunity to work on government digital infrastructure, where every optimization and feature directly impacts citizens' lives.
-
-My expertise spans across full-stack development, artificial intelligence, and system architecture. I particularly enjoy working with modern web technologies like React and Next.js for frontend development, while leveraging Python and Node.js for robust backend solutions. Recently, I've been diving deep into AI/ML technologies, building intelligent systems that can understand context and provide meaningful interactions.
-
-What excites me most about technology is its potential for social impact. Through my work and projects, I've focused on making complex systems more accessible and efficient, whether it's government services or cutting-edge research tools.
 
 ---
 
@@ -75,36 +66,6 @@ Selected among the top 11 teams for building an intelligent agentic code editor 
 
 **IIT DELHI DebugOn (ONDC X BECon'25) 2025** - Finalist  
 Qualified for finals among top 9 teams, developing solutions for the Open Network for Digital Commerce platform.
-
----
-
-## 🌟 Featured Projects
-
-### Occolus-AI - Revolutionary Drug Discovery Platform
-
-Occolus-AI represents the intersection of artificial intelligence and pharmaceutical research. Built using advanced deep learning techniques, this platform predicts drug-protein interactions with remarkable accuracy and speed. The system processes complex molecular structures and provides insights that traditionally would require extensive laboratory research.
-
-**Technical Innovation**: The core of Occolus-AI is a PyTorch-based neural network that processes 1424-dimensional ECFP (Extended Connectivity Fingerprints) molecular representations. This approach allows for comprehensive analysis of molecular properties and their potential interactions with protein targets.
-
-**Real-World Impact**: By achieving sub-second inference times, the platform can rapidly screen thousands of potential drug compounds, significantly accelerating the early stages of drug discovery research.
-
-**Architecture**: Built with a FastAPI backend for high-performance molecular prediction services, integrated with UniProt and PubChem databases for comprehensive compound information, and featuring a Next.js frontend with interactive 2D molecular structure visualization.
-
-**Technologies:** `Python`, `PyTorch`, `Next.js`, `FastAPI`, `RDKit`, `Gemini AI`
-
----
-
-### Sahayak-AI - Intelligent Government Service Assistant
-
-Sahayak-AI addresses a critical challenge in Indian governance - making government schemes and services easily discoverable and accessible to citizens across linguistic and technological barriers. This cross-platform mobile application leverages AI to democratize access to government benefits.
-
-**Multilingual AI Integration**: The app supports real-time speech recognition in 7 major Indian languages, ensuring that language is never a barrier to accessing government services. This feature alone makes government assistance available to millions of additional citizens.
-
-**Intelligent Scheme Discovery**: With access to over 4,000 government schemes in its database, the AI system can assess user eligibility based on multiple criteria including location, income, profession, and personal circumstances.
-
-**Automation & Efficiency**: The OCR-powered document processing system eliminates the tedious task of manual form filling, while location-based services help users find nearby government offices with offline data caching for areas with poor internet connectivity.
-
-**Technologies:** `React Native`, `Expo`, `TypeScript`, `Gemini AI`, `Google Speech API`, `Vision API`
 
 ---
 
