@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
-<img align="left" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350px"/>
+<img align="left" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400px" style="margin-right: 30px;"/>
 
 ## 🚀 About Me
 
@@ -12,6 +12,8 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 - 💬 Ask me about **web development**, **AI/ML**, and **system design**
 - 📫 How to reach me: **im.ashish.1001@gmail.com**
 - ⚡ Fun fact: I've won **4th position** in Bajaj HackRx 6.0 among **46K+ teams**!
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashizh-choudhary/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://CroWzblooD.github.io/)
