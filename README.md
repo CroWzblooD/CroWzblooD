@@ -5,6 +5,7 @@
 ## 🚀 About Me
 
 I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
+<br clear="left"/>
 
 - 🔭 I'm currently working on **MSME Udyam Registration portal** serving **6+ crore users**
 - 🌱 I'm learning **advanced system design** and **cloud architecture**  
@@ -12,8 +13,6 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 - 💬 Ask me about **web development**, **AI/ML**, and **system design**
 - 📫 How to reach me: **im.ashish.1001@gmail.com**
 - ⚡ Fun fact: I've won **4th position** in Bajaj HackRx 6.0 among **46K+ teams**!
-
-<br/>
 
 <br clear="left"/>
 
