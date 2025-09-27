@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Ashish K Choudhary
+![readme](https://github.com/user-attachments/assets/c523e393-613c-4270-9768-59af44e296d5)![readme](https://github.com/user-attachments/assets/15353fe0-445e-47f2-b494-f16114edb492)# Hey there! 👋 I'm Ashish K Choudhary
 
-<img align="left" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400px" style="margin-right: 30px;"/>
+<img align="left" src="" width="400px" style="margin-right: 30px;"/>
 
 ## 🚀 About Me
 
