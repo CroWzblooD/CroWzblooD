@@ -1,6 +1,13 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
-<img align="left" src="https://github.com/user-attachments/assets/458dbd42-af1d-4402-9460-e9e068b3bc57" width="300" style="margin-right: 15px;" />
+<table>
+<tr>
+<td width="300">
+<img src="https://github.com/user-attachments/assets/458dbd42-af1d-4402-9460-e9e068b3bc57" width="300" />
+</td>
+<td width="20">
+</td>
+<td>
 
 ## 🚀 About Me
 I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
@@ -11,6 +18,10 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 - 💬 Ask me about **web development**, **AI/ML**, and **system design**
 - 📫 How to reach me: **im.ashish.1001@gmail.com**
 - ⚡ Fun fact: I've won **4th position** in Bajaj HackRx 6.0 among **46K+ teams**!
+
+</td>
+</tr>
+</table>
 
 <br clear="left"/>
 
