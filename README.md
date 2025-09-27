@@ -1,11 +1,9 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
-![readme](https://github.com/user-attachments/assets/458dbd42-af1d-4402-9460-e9e068b3bc57)
+<img align="left" src="https://github.com/user-attachments/assets/458dbd42-af1d-4402-9460-e9e068b3bc57" width="300" style="margin-right: 5px;" />
 
 ## 🚀 About Me
-
 I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
-<br clear="left"/>
 
 - 🔭 I'm currently working on **MSME Udyam Registration portal** serving **6+ crore users**
 - 🌱 I'm learning **advanced system design** and **cloud architecture**  
