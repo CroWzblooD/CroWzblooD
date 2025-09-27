@@ -1,163 +1,146 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350px"/>
-      </td>
-      <td width="50%" align="left">
-        <h3>🚀 About Me</h3>
-        <p>
-          I'm a passionate <strong>Software Engineer</strong> and <strong>Final Year CS Student</strong> at Maharaja Agrasen Institute of Technology with a <strong>8.9 CGPA</strong>. Currently working as a <strong>Software Developer Intern</strong> at <strong>National Informatics Centre (NIC)</strong>, where I optimize government digital services serving millions of users.
-        </p>
-        
-        <ul>
-          <li>🔭 I'm currently working on <strong>MSME Udyam Registration portal</strong> serving 6+ crore users</li>
-          <li>🌱 I'm learning <strong>advanced system design</strong> and <strong>cloud architecture</strong></li>
-          <li>🤖 Built intelligent chatbot reducing query resolution time from <strong>45 minutes to 8 minutes</strong></li>
-          <li>💬 Ask me about <strong>web development</strong>, <strong>AI/ML</strong>, and <strong>system design</strong></li>
-          <li>📫 How to reach me: <strong>im.ashish.1001@gmail.com</strong></li>
-          <li>⚡ Fun fact: I've won <strong>4th position</strong> in Bajaj HackRx 6.0 among 46K+ teams!</li>
-        </ul>
-        
-        <p align="center">
-          <a href="https://www.linkedin.com/in/ashizh-choudhary/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-          <a href="https://CroWzblooD.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-          <a href="mailto:im.ashish.1001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
+<td width="40%">
 
----
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="100%"/>
 
-## 💼 Work Experience
+</td>
+<td width="60%">
 
-**Software Developer Intern** \
-[**National Informatics Centre (NIC)**](https://www.nic.in/) • July 2025 - Present \
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
+
+- 🔭 I'm currently working on **MSME Udyam Registration portal** serving **6+ crore users**
+- 🌱 I'm learning **advanced system design** and **cloud architecture**  
+- 🤖 Built intelligent chatbot reducing query resolution time from **45 minutes to 8 minutes**
+- 💬 Ask me about **web development**, **AI/ML**, and **system design**
+- 📫 How to reach me: **im.ashish.1001@gmail.com**
+- ⚡ Fun fact: I've won **4th position** in Bajaj HackRx 6.0 among **46K+ teams**!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashizh-choudhary/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://CroWzblooD.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.ashish.1001@gmail.com)
+
+</td>
+</tr>
+</table>
+
+## More About Me
+
+I'm deeply passionate about creating impactful technology solutions that solve real-world problems. My journey in software engineering has been driven by curiosity and the desire to build systems that can serve millions of users effectively. At NIC, I've had the incredible opportunity to work on government digital infrastructure, where every optimization and feature directly impacts citizens' lives.
+
+My expertise spans across full-stack development, artificial intelligence, and system architecture. I particularly enjoy working with modern web technologies like React and Next.js for frontend development, while leveraging Python and Node.js for robust backend solutions. Recently, I've been diving deep into AI/ML technologies, building intelligent systems that can understand context and provide meaningful interactions.
+
+What excites me most about technology is its potential for social impact. Through projects like Sahayak-AI, I've worked on making government services more accessible to Indian citizens, supporting multiple regional languages and simplifying complex processes. This aligns with my belief that technology should be inclusive and serve everyone, regardless of their technical background.
+
+## 💼 Professional Experience
+
+**Software Developer Intern**  
+[**National Informatics Centre (NIC)**](https://www.nic.in/) • July 2025 - Present  
 *New Delhi, India*
 
-- Optimized MSME Udyam Registration portal serving **6+ crore registered users** through PostgreSQL database enhancements and security improvements
-- Engineered intelligent agentic chatbot with context-aware memory and tool calling capabilities, reducing citizen query resolution time from **45 minutes to 8 minutes**
-- Implemented automated form-filling system using AI/ML techniques, decreasing manual data entry errors by **2,847 cases per month** and improving processing speed by **3.2x**
-- Deployed VPS-based security protocols and encryption mechanisms for Aadhaar API integration, ensuring secure authentication for **15,000+ daily users**
+At NIC, I work on critical government digital infrastructure that serves millions of Indian citizens daily. My role involves optimizing large-scale systems, implementing AI-driven solutions, and ensuring robust security protocols for sensitive government data.
 
-Languages & Technologies: `PostgreSQL`, `Python`, `AI/ML`, `VPS Security`, `Government APIs`
+- **System Optimization**: Enhanced MSME Udyam Registration portal performance, serving over 6 crore registered users with improved database queries and caching strategies
+- **AI Innovation**: Developed context-aware chatbot system with advanced memory management, achieving 82% reduction in citizen query resolution time
+- **Process Automation**: Built AI-powered form-filling system that processes thousands of applications daily, reducing manual errors by 2,847 cases per month
+- **Security Implementation**: Deployed VPS-based security protocols for Aadhaar API integration, ensuring data protection for 15,000+ daily active users
+- **Database Management**: Optimized PostgreSQL databases for government services, improving query performance and system reliability
 
----
+## 🏆 Recognition & Achievements
 
-## 🏆 Achievements & Hackathons
+My participation in competitive programming and hackathons has been a journey of continuous learning and innovation. Each competition has pushed me to think creatively and build solutions under pressure, skills that translate directly to professional software development.
 
-**4th Position + Larry Page Award - Bajaj HackRx 6.0 2025** \
-Secured 4th position among **46,148+ teams** and awarded the Larry Page Award for best innovation.
+**Bajaj HackRx 6.0 2025** - 4th Position + Larry Page Award  
+Among 46,148+ participating teams, our solution stood out for its innovative approach to solving complex business problems using cutting-edge technology.
 
-**3rd Place - Stylumia NXT Hackathon 2024-25** \
-Secured 3rd position among **6,700+ teams**, created automated taxonomy generation solution.
+**Stylumia NXT Hackathon 2024-25** - 3rd Place  
+Competed against 6,700+ teams to build an automated taxonomy generation system that revolutionizes product categorization.
 
-**2nd Place - Access Dev IDEathon National Hackathon** \
-Achieved 2nd position with **3,200+ participating teams** on HackerEarth platform.
+**Access Dev IDEathon National Hackathon 2025** - 2nd Place  
+Secured runner-up position among 3,200+ teams with a comprehensive development solution on the HackerEarth platform.
 
-**2nd Place - StackHack 2.0 National Hackathon 2024** \
-Secured 2nd position competing against **2,100+ teams** from across India.
+**StackHack 2.0 National Hackathon 2024** - 2nd Place  
+Achieved second position competing against 2,100+ talented teams from across India with an innovative tech solution.
 
-**Finalist - IIT BHU Haxplore 2025** \
-Selected as finalist in top 11 teams, built agentic code editor solution.
+**IIT BHU Haxplore 2025** - Finalist  
+Selected among the top 11 teams for building an intelligent agentic code editor that assists developers with AI-powered suggestions.
 
-**Finalist - IIT DELHI DebugOn (ONDC X BECon'25 Hackathon)** \
-Qualified for finals in top 9 teams at DebugOn hackathon.
+**IIT DELHI DebugOn (ONDC X BECon'25) 2025** - Finalist  
+Qualified for finals among top 9 teams, developing solutions for the Open Network for Digital Commerce platform.
 
----
+## 🛠️ Technical Expertise
 
-## 🛠️ Technologies & Tools
+My technical journey has been shaped by a commitment to learning cutting-edge technologies and applying them to solve complex problems. I believe in building with the right tools for each specific challenge.
 
-**Programming Languages:** \
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+**Programming Languages & Core Technologies**  
+JavaScript, TypeScript, Python, Java, Shell Scripting
 
-**Frontend Technologies:** \
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Frontend Development Stack**  
+React, Next.js, React Native, Expo, Redux, Tailwind CSS, Three.js  
+*I specialize in building responsive, accessible, and performant user interfaces*
 
-**Backend & Cloud:** \
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Backend & API Development**  
+Node.js, Express.js, FastAPI, Spring Boot, Flask  
+*Expertise in designing scalable APIs and microservices architecture*
 
----
+**Database & Storage Solutions**  
+PostgreSQL, MongoDB, Firebase, MySQL  
+*Experience with both relational and NoSQL databases, query optimization*
+
+**AI/ML & Data Science**  
+PyTorch, TensorFlow, scikit-learn, NumPy, OpenCV, RDKit  
+*Building intelligent systems with machine learning and deep learning*
+
+**Cloud & DevOps Technologies**  
+AWS, Docker, Kubernetes, Jenkins, Prometheus, Grafana  
+*Implementing robust deployment pipelines and monitoring solutions*
 
 ## 🌟 Featured Projects
 
-### 🧬 Occolus-AI
-*Drug Discovery Platform using Deep Learning*
+### Occolus-AI - Revolutionary Drug Discovery Platform
+*Transforming pharmaceutical research through artificial intelligence*
 
-Built deep learning model using PyTorch to predict drug-protein interactions with 1424-dimensional ECFP fingerprints from RDKit, achieving sub-second inference time. Developed RESTful API backend with FastAPI and integrated UniProt/PubChem databases with interactive 2D structure visualization using Next.js frontend.
+Occolus-AI represents the intersection of artificial intelligence and pharmaceutical research. Built using advanced deep learning techniques, this platform predicts drug-protein interactions with remarkable accuracy and speed. The system processes complex molecular structures and provides insights that traditionally would require extensive laboratory research.
 
-**Technologies:** `Python`, `PyTorch`, `Next.js`, `FastAPI`, `RDKit`, `Gemini AI` \
-**[View on GitHub](https://github.com/CroWzblooD/Occolus-AI)**
+**Technical Innovation**: The core of Occolus-AI is a PyTorch-based neural network that processes 1424-dimensional ECFP (Extended Connectivity Fingerprints) molecular representations. This approach allows for comprehensive analysis of molecular properties and their potential interactions with protein targets.
 
-### 📱 Sahayak-AI
-*Government Scheme Assistant Mobile App*
+**Real-World Impact**: By achieving sub-second inference times, the platform can rapidly screen thousands of potential drug compounds, significantly accelerating the early stages of drug discovery research.
 
-Engineered cross-platform mobile app with React Native/Expo supporting real-time speech recognition in 7 Indian languages and AI-powered eligibility assessment for 4000+ government schemes. Implemented OCR document processing using Google Vision API for automatic form filling and location-based services.
+**Architecture**: Built with a FastAPI backend for high-performance molecular prediction services, integrated with UniProt and PubChem databases for comprehensive compound information, and featuring a Next.js frontend with interactive 2D molecular structure visualization.
 
-**Technologies:** `React Native`, `Expo`, `TypeScript`, `Gemini AI`, `Google Speech API` \
-**[View on GitHub](https://github.com/CroWzblooD/Sahayak-AI)**
+### Sahayak-AI - Intelligent Government Service Assistant
+*Making government services accessible to every Indian citizen*
 
----
+Sahayak-AI addresses a critical challenge in Indian governance - making government schemes and services easily discoverable and accessible to citizens across linguistic and technological barriers. This cross-platform mobile application leverages AI to democratize access to government benefits.
 
-## 📊 GitHub Stats
+**Multilingual AI Integration**: The app supports real-time speech recognition in 7 major Indian languages, ensuring that language is never a barrier to accessing government services. This feature alone makes government assistance available to millions of additional citizens.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CroWzblooD&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CroWzblooD&theme=default&hide_border=true" width="48%">
-</div>
+**Intelligent Scheme Discovery**: With access to over 4,000 government schemes in its database, the AI system can assess user eligibility based on multiple criteria including location, income, profession, and personal circumstances.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroWzblooD&layout=compact&theme=default&hide_border=true&langs_count=8" width="48%">
-</div>
+**Automation & Efficiency**: The OCR-powered document processing system eliminates the tedious task of manual form filling, while location-based services help users find nearby government offices with offline data caching for areas with poor internet connectivity.
 
----
+## 📊 Development Activity
 
-## 📝 Blog Posts
+<img src="https://github-readme-stats.vercel.app/api?username=CroWzblooD&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CroWzblooD&theme=default&hide_border=true" width="49%">
 
-Featured posts from my technical blog, automatically updated by GitHub Actions:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroWzblooD&layout=compact&theme=default&hide_border=true&langs_count=8" width="49%">
 
-- [Building Scalable Microservices with Docker & Kubernetes](https://crowzblood.github.io/posts/microservices-architecture/) (2025-01-15)
-- [AI-Powered Chatbots: From Concept to Production](https://crowzblood.github.io/posts/ai-chatbots-guide/) (2025-01-10)
-- [Optimizing React Applications for Performance](https://crowzblood.github.io/posts/react-optimization/) (2025-01-05)
-- [DevOps Best Practices for Modern Applications](https://crowzblood.github.io/posts/devops-best-practices/) (2024-12-28)
-
----
 
 ## 🤝 Let's Connect
 
-I'm always excited to collaborate on innovative projects and connect with fellow developers! Whether you're looking to work together, need mentorship, or just want to chat about technology, feel free to reach out.
+I'm always excited to connect with fellow developers, potential collaborators, and anyone passionate about technology and its potential for positive impact. Whether you're interested in discussing the latest in AI/ML, sharing insights about system architecture, or exploring collaboration opportunities, I'd love to hear from you.
 
-**Get in touch with me:** \
-📧 Email: [im.ashish.1001@gmail.com](mailto:im.ashish.1001@gmail.com) \
-💼 LinkedIn: [linkedin.com/in/ashizh-choudhary](https://www.linkedin.com/in/ashizh-choudhary/) \
-🌐 Portfolio: [crowzblood.github.io](https://crowzblood.github.io/) \
+**Professional Contact**  
+📧 Email: [im.ashish.1001@gmail.com](mailto:im.ashish.1001@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/ashizh-choudhary](https://www.linkedin.com/in/ashizh-choudhary/)  
+🌐 Portfolio: [crowzblood.github.io](https://crowzblood.github.io/)  
 💻 GitHub: [@CroWzblooD](https://github.com/CroWzblooD)
 
-**Open to:**
-- 🚀 Full-time Software Engineering opportunities
-- 🤝 Collaborating on AI/ML and web development projects  
-- 📚 Mentoring aspiring developers
-- 🎤 Speaking at tech events and conferences
+I'm open to full-time software engineering opportunities, collaborative projects in AI/ML and web development, mentoring opportunities with aspiring developers, and speaking engagements at technical conferences and events.
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CroWzblooD&color=blueviolet&style=flat&label=Profile+Views"/>
-  
-  *Thank you for visiting my profile! If you find my work interesting, don't forget to ⭐ star my repositories!*
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=CroWzblooD&color=blueviolet&style=flat&label=Profile+Views)
