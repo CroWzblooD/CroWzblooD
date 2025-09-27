@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
-![Uploading readme.gif…]()
+![readme](https://github.com/user-attachments/assets/458dbd42-af1d-4402-9460-e9e068b3bc57)
 
 ## 🚀 About Me
 
