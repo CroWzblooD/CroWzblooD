@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
 ## 🚀 About Me
-<!-- <img align="right" width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/9e5cf3aa-db5f-4a89-956d-1e2269393437" /> -->
-<img align="right" width="340" height="400" alt="image" src="https://github.com/user-attachments/assets/c065c121-432c-4a71-b319-1fde92fd242c" />
+< <img align="right" width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/9e5cf3aa-db5f-4a89-956d-1e2269393437" />
+<!-- <img align="right" width="340" height="400" alt="image" src="https://github.com/user-attachments/assets/c065c121-432c-4a71-b319-1fde92fd242c" /> -->
 
 
 
