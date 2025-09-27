@@ -19,7 +19,7 @@ jobs:
           # Options
           user: CroWzblooD
           template: classic
-          base: "header"  # This shows only your name and avatar
+          base: ""  # This removes ALL stats - only calendar will show
           
           # Only isometric calendar plugin
           plugin_isocalendar: yes
