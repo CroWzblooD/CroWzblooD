@@ -1,5 +1,7 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
+![Uploading readme.gif…]()
+
 ## 🚀 About Me
 
 I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
