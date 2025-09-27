@@ -1,7 +1,8 @@
 # Hey there! 👋 I'm Ashish K Choudhary
 
 ## 🚀 About Me
-<img align="right" width="300" alt="Coding GIF" src="https://github.com/user-attachments/assets/458dbd42-af1d-4402-9460-e9e068b3bc57"/>
+<img align="right" width="540" height="303" alt="image" src="https://github.com/user-attachments/assets/8fbe2e4f-2b94-4da2-93f1-965f967921cc" />
+
 
 I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology with a **8.9 CGPA**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
 
