@@ -19,6 +19,13 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 
 ---
 
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github.com/CroWzblooD/CroWzblooD/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
+
 ## More About Me
 
 I'm deeply passionate about creating impactful technology solutions that solve real-world problems. My journey in software engineering has been driven by curiosity and the desire to build systems that can serve millions of users effectively. At NIC, I've had the incredible opportunity to work on government digital infrastructure, where every optimization and feature directly impacts citizens' lives.
