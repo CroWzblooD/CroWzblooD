@@ -29,7 +29,7 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 <img src="https://github.com/user-attachments/assets/5e6a8f4d-0b1a-4e2b-a1da-869689b5a9fa" width="120" alt="IndiaAI" align="left" style="margin-right: 25px; margin-bottom: 20px;"/>
 
 ### AI Engineer Intern
-**[IndiaAI](https://indiaai.gov.in/)** • October 2025 - Present
+**[IndiaAI](https://indiaai.gov.in/)** • December 2025 - Upcoming
 
 **Languages & Technologies:** `Python` • `TensorFlow` • `PyTorch` • `Machine Learning` • `NLP` • `Computer Vision`
 
@@ -40,7 +40,7 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 <img src="https://github.com/user-attachments/assets/a3e45d7a-b12f-425f-88c5-396f8faba8f8" width="120" alt="NIC" align="left" style="margin-right: 25px; margin-bottom: 20px;"/>
 
 ### Software Developer Intern
-**[National Informatics Centre (NIC)](https://www.nic.in/)** • July 2025 - October 2025
+**[National Informatics Centre (NIC)](https://www.nic.in/)** • July 2025 - December 2025
 
 **Languages & Technologies:** `PostgreSQL` • `Python` • `Django` • `AI/ML` • `Redis` • `System Optimization`
 
