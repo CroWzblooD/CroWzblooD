@@ -26,33 +26,25 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 
 ## 💼 Work Experience
 
-<table>
-<tr>
-<td width="120" valign="top">
-<img src="https://github.com/user-attachments/assets/5e6a8f4d-0b1a-4e2b-a1da-869689b5a9fa" width="100" alt="IndiaAI"/>
-</td>
-<td valign="top">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5e6a8f4d-0b1a-4e2b-a1da-869689b5a9fa" width="120" alt="IndiaAI" style="vertical-align: top; margin-right: 20px;"/>
+</p>
 
-**AI Engineer Intern**  
-[**IndiaAI**](https://indiaai.gov.in/) • October 2025 - Present  
-**Languages & Technologies:** `Python`, `TensorFlow`, `PyTorch`, `Machine Learning`, `NLP`, `Computer Vision`
+### AI Engineer Intern
+**[IndiaAI](https://indiaai.gov.in/)** • October 2025 - Present
 
-</td>
-</tr>
+**Languages & Technologies:** `Python` • `TensorFlow` • `PyTorch` • `Machine Learning` • `NLP` • `Computer Vision`
 
-<tr>
-<td width="120" valign="top">
-<img src="https://github.com/user-attachments/assets/a3e45d7a-b12f-425f-88c5-396f8faba8f8" width="100" alt="NIC"/>
-</td>
-<td valign="top">
 
-**Software Developer Intern**  
-[**National Informatics Centre (NIC)**](https://www.nic.in/) • July 2025 - October 2025  
-**Languages & Technologies:** `PostgreSQL`, `Python`, `Django`, `AI/ML`, `Redis`, `System Optimization`
 
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/a3e45d7a-b12f-425f-88c5-396f8faba8f8" width="120" alt="NIC" style="vertical-align: top; margin-right: 20px;"/>
+</p>
+
+### Software Developer Intern
+**[National Informatics Centre (NIC)](https://www.nic.in/)** • July 2025 - October 2025
+
+**Languages & Technologies:** `PostgreSQL` • `Python` • `Django` • `AI/ML` • `Redis` • `System Optimization`
 
 ---
 
