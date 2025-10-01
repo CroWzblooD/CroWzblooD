@@ -26,7 +26,7 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 
 ## 💼 Work Experience
 
-<img src="<img width="300" height="168" alt="worklogo2" src="https://github.com/user-attachments/assets/5e6a8f4d-0b1a-4e2b-a1da-869689b5a9fa" />
+<img src="https://github.com/user-attachments/assets/5e6a8f4d-0b1a-4e2b-a1da-869689b5a9fa" />
 " width="60" alt="IndiaAI" align="left" style="margin-right: 15px;"/>
 
 **AI Engineer Intern**  
@@ -37,7 +37,7 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 
 ---
 
-<img src="<img width="324" height="155" alt="worklogo" src="https://github.com/user-attachments/assets/a3e45d7a-b12f-425f-88c5-396f8faba8f8" />
+<img src="https://github.com/user-attachments/assets/a3e45d7a-b12f-425f-88c5-396f8faba8f8" />
 " width="60" alt="NIC" align="left" style="margin-right: 15px;"/>
 
 **Software Developer Intern**  
