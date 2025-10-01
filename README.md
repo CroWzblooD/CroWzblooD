@@ -2,13 +2,10 @@
 
 ## 🧩 About Me
 <img align="right" width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/9e5cf3aa-db5f-4a89-956d-1e2269393437" />
-<!-- <img align="right" width="340" height="400" alt="image" src="https://github.com/user-attachments/assets/c065c121-432c-4a71-b319-1fde92fd242c" /> -->
 
+I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology and **5x National Hackathon Winner**. Currently working as an **AI Engineer Intern** at **IndiaAI** and previously served as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
 
-
-I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology and **5x National Hackathon Winner**. Currently working as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
-
-- 🔭 I'm currently working on **MSME Udyam Registration portal** serving **6+ crore users**
+- 🔭 I'm currently working on **AI-powered solutions** and **MSME Udyam Registration portal** serving **6+ crore users**
 - 🌱 I'm learning **advanced system design** and **cloud architecture**  
 - 🤖 Built intelligent chatbot reducing query resolution time from **45 minutes to 8 minutes**
 - 💬 Ask me about **web development**, **AI/ML**, and **system design**
@@ -27,45 +24,43 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
+
+<img src="<img width="300" height="168" alt="worklogo2" src="https://github.com/user-attachments/assets/5e6a8f4d-0b1a-4e2b-a1da-869689b5a9fa" />
+" width="60" alt="IndiaAI" align="left" style="margin-right: 15px;"/>
+
+**AI Engineer Intern**  
+[**IndiaAI**](https://indiaai.gov.in/) • October 2025 - Present  
+**Languages & Technologies:** `Python`, `TensorFlow`, `PyTorch`, `Machine Learning`, `NLP`, `Computer Vision`
+
+<br clear="left"/>
+
+---
+
+<img src="<img width="324" height="155" alt="worklogo" src="https://github.com/user-attachments/assets/a3e45d7a-b12f-425f-88c5-396f8faba8f8" />
+" width="60" alt="NIC" align="left" style="margin-right: 15px;"/>
 
 **Software Developer Intern**  
-[**National Informatics Centre (NIC)**](https://www.nic.in/) • July 2025 - Present  
-*New Delhi, India*
+[**National Informatics Centre (NIC)**](https://www.nic.in/) • July 2025 - October 2025  
+**Languages & Technologies:** `PostgreSQL`, `Python`, `Django`, `AI/ML`, `Redis`, `System Optimization`
 
-At NIC, I work on critical government digital infrastructure that serves millions of Indian citizens daily. My role involves optimizing large-scale systems, implementing AI-driven solutions, and ensuring robust security protocols for sensitive government data.
-
-- **System Optimization**: Enhanced MSME Udyam Registration portal performance, serving over 6 crore registered users with improved database queries and caching strategies
-- **AI Innovation**: Developed context-aware chatbot system with advanced memory management, achieving 82% reduction in citizen query resolution time
-- **Process Automation**: Built AI-powered form-filling system that processes thousands of applications daily, reducing manual errors by 2,847 cases per month
-- **Security Implementation**: Deployed VPS-based security protocols for Aadhaar API integration, ensuring data protection for 15,000+ daily active users
-- **Database Management**: Optimized PostgreSQL databases for government services, improving query performance and system reliability
-
-**Technologies Used:** `PostgreSQL`, `Python`, `AI/ML`, `VPS Security`, `Government APIs`
+<br clear="left"/>
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-My participation in competitive programming and hackathons has been a journey of continuous learning and innovation. Each competition has pushed me to think creatively and build solutions under pressure, skills that translate directly to professional software development.
+**[Bajaj HackRx 6.0 2025](https://www.hackrx.in/)** - Secured 4th position and Larry Page Award among 46,148+ participating teams for innovative business solution.
 
-**Bajaj HackRx 6.0 2025** - 4th Position + Larry Page Award  
-Among 46,148+ participating teams, our solution stood out for its innovative approach to solving complex business problems using cutting-edge technology.
+**[Stylumia NXT Hackathon 2024-25](https://stylumia.ai/)** - Achieved 3rd place among 6,700+ teams for automated taxonomy generation system.
 
-**Stylumia NXT Hackathon 2024-25** - 3rd Place  
-Competed against 6,700+ teams to build an automated taxonomy generation system that revolutionizes product categorization.
+**[Access Dev IDEathon 2025](https://www.hackerearth.com/)** - Runner-up position among 3,200+ teams with comprehensive development solution.
 
-**Access Dev IDEathon National Hackathon 2025** - 2nd Place  
-Secured runner-up position among 3,200+ teams with a comprehensive development solution on the HackerEarth platform.
+**[StackHack 2.0 2024](https://stackhack.in/)** - Second position among 2,100+ teams for innovative full-stack technology solution.
 
-**StackHack 2.0 National Hackathon 2024** - 2nd Place  
-Achieved second position competing against 2,100+ talented teams from across India with an innovative tech solution.
+**[IIT BHU Haxplore 2025](https://haxplore.in/)** - Finalist among top 11 teams for intelligent agentic code editor with AI capabilities.
 
-**IIT BHU Haxplore 2025** - Finalist  
-Selected among the top 11 teams for building an intelligent agentic code editor that assists developers with AI-powered suggestions.
-
-**IIT DELHI DebugOn (ONDC X BECon'25) 2025** - Finalist  
-Qualified for finals among top 9 teams, developing solutions for the Open Network for Digital Commerce platform.
+**[IIT Delhi DebugOn 2025](https://ondc.org/)** - Finalist among top 9 teams for ONDC platform solution development.
 
 ---
 
