@@ -5,7 +5,7 @@
 
 I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology and **5x National Hackathon Winner**. Currently working as an **AI Engineer Intern** at **IndiaAI** and previously served as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
 
-- 🔭 I'm currently working on **AI-powered solutions** and **MSME Udyam Registration portal** serving **6+ crore users**
+- 🔭 I'm currently working on **AI-powered solutions** and **MSME Udyam Registration portal** serving **6+ Million users**
 - 🌱 I'm learning **advanced system design** and **cloud architecture**  
 - 🤖 Built intelligent chatbot reducing query resolution time from **45 minutes to 8 minutes**
 - 💬 Ask me about **web development**, **AI/ML**, and **system design**
