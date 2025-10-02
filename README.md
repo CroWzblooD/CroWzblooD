@@ -3,14 +3,13 @@
 ## 🧩 About Me
 <img align="right" width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/9e5cf3aa-db5f-4a89-956d-1e2269393437" />
 
-I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology and **5x National Hackathon Winner**. Currently working as an **AI Engineer Intern** at **IndiaAI** and previously served as a **Software Developer Intern** at **National Informatics Centre (NIC)**, where I optimize government digital services serving millions of users.
+I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja Agrasen Institute of Technology and **5x National Hackathon Winner**. Currently working as an **AI Engineer Intern** at **IndiaAI** and previously served as a **Software Developer Intern** at **National Informatics Centre (NIC)**
 
 - 🔭 I'm currently working on **AI-powered solutions** and **MSME Udyam Registration portal** serving **6+ Million users**
 - 🌱 I'm learning **advanced system design** and **cloud architecture**  
-- 🤖 Built intelligent chatbot reducing query resolution time from **45 minutes to 8 minutes**
 - 💬 Ask me about **web development**, **AI/ML**, and **system design**
 - 📫 How to reach me: **im.ashish.1001@gmail.com**
-- ⚡ Fun fact: I've won **4th position** in Bajaj HackRx 6.0 among **46K+ teams**!
+- ⚡ : I've won **5 National Hackathon**!
 
 <br clear="left"/>
 
