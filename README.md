@@ -61,14 +61,5 @@ I'm a passionate **Software Engineer** and **Final Year CS Student** at Maharaja
 
 **[IIT Delhi DebugOn 2025](https://ondc.org/)** - Finalist among top 9 teams for ONDC platform solution development.
 
----
-
-## 🎯 Current Focus & Goals
-
-As I approach the completion of my Computer Science degree, I'm focused on building production-ready applications that can scale to serve millions of users. My current learning path includes advanced system design patterns, cloud-native architecture, and exploring the latest developments in AI/ML technologies.
-
-I'm particularly interested in opportunities where I can contribute to large-scale systems that have meaningful social impact. Whether it's optimizing government digital services, building AI-powered solutions for healthcare, or creating platforms that connect people and services, I'm drawn to challenges that combine technical complexity with real-world value.
-
-My immediate goals include securing a full-time software engineering role where I can apply my skills in building scalable systems, contributing to open-source projects that align with my interests in AI and web development, and continuing to mentor aspiring developers in their journey.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CroWzblooD&color=blueviolet&style=flat&label=Profile+Views)
